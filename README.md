@@ -2,7 +2,7 @@
 
 I'm an undergraduate Physics student at the University of Bologna.
 
-My interests lie at the intersection of **theoretical physics**, **mathematics**, and **scientific computing**.
+I use this GitHub profile to document my laboratory work, organize my academic notes, and train new skills.
 
 ---
 
